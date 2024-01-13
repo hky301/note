@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "397665efef1c14ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1fadd721b6b3e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7574eeff1957073e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mini-react/第一天.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8eecc601269aa1e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd0b9f1c1bee082f",
+        "type": "tabs",
+        "dimension": 58.95522388059701,
+        "children": [
+          {
+            "id": "6e2c0fa5f27f1d55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f31ce4574608a3ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54ec2ac408701c8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f07ce5c35966ad64",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5188e9b615b42e46",
+        "type": "tabs",
+        "dimension": 41.04477611940299,
+        "children": [
+          {
+            "id": "00e909a68a5a1dcc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "8bc9c705a4f511e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf25358268b3a9ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b54e851a66d796dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mini-react/第一天.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccc6cc0808262313",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mini-react/第一天.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f6925f857b49457",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2613b5f014525b19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mini-react/第一天.md"
+              }
+            }
+          },
+          {
+            "id": "1cb249cf40c37428",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7574eeff1957073e",
+  "lastOpenFiles": [
+    "mini-react/第一天.md",
+    "mini-react",
+    "金宝利眼镜/路由.md",
+    "好奇/资料.md",
+    "好奇",
+    "金宝利眼镜/需求.md",
+    "vue3/源码.md",
+    "FrontEndTest/为什么要学习测试.md",
+    "老年协会/零碎.md",
+    "attachment/Pasted image 20231227140539.png",
+    "老年协会/2023-11-15.md",
+    "资料/资料.md",
+    "react/基础.md",
+    "2023-10月阿迪会员周/2023阿迪10月会员周任务清单.md",
+    "金宝利眼镜",
+    "attachment/Pasted image 20231220103617.png",
+    "attachment/Pasted image 20231219145046.png",
+    "资料",
+    "FrontEndTest",
+    "react",
+    "algorithm/动态规划.md",
+    "attachment/Pasted image 20231212093641.png",
+    "attachment/Pasted image 20231212093611.png",
+    "attachment/Pasted image 20231212093522.png",
+    "attachment/Pasted image 20231212093512.png",
+    "attachment/Pasted image 20231212091603.png",
+    "attachment/Pasted image 20231211160848.png",
+    "attachment/Pasted image 20231211160751.png",
+    "algorithm/术语表.md",
+    "algorithm/迭代与递归.md",
+    "algorithm/复杂度分析.md",
+    "algorithm/数据结构.md",
+    "algorithm/数组与链表.md",
+    "algorithm",
+    "算法",
+    "daily/2023-11-21.md",
+    "daily/2023-10-17.md",
+    "Pasted image 20230927160346.png.md",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "2023-10月阿迪会员周",
+    "2023-10-17.md",
+    "10-17 uat.md",
+    "attachment",
+    "未命名 4.canvas",
+    "daily/2023-10-18.md",
+    "daily/2023-10-19.md",
+    "2023-10-17_周二.md",
+    "daily/2023-10-18_周三.md"
+  ]
+}
