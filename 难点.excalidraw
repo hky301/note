@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 1302,
-      "versionNonce": 83153628,
+      "version": 1303,
+      "versionNonce": 773910100,
       "isDeleted": false,
       "id": "3p1Uwa7v6jw5iARp45jJe",
       "fillStyle": "solid",
@@ -31,7 +31,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705229162193,
+      "updated": 1705229233480,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -46,8 +46,8 @@
     },
     {
       "type": "text",
-      "version": 432,
-      "versionNonce": 2079505764,
+      "version": 433,
+      "versionNonce": 1936380140,
       "isDeleted": false,
       "id": "2GP8KcqKngHsk8_3bm9HY",
       "fillStyle": "solid",
@@ -76,7 +76,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705228745866,
+      "updated": 1705229233481,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -91,8 +91,8 @@
     },
     {
       "type": "text",
-      "version": 836,
-      "versionNonce": 2142059228,
+      "version": 837,
+      "versionNonce": 1779958740,
       "isDeleted": false,
       "id": "yALKAhfsYR-bjYhquYFsf",
       "fillStyle": "solid",
@@ -117,7 +117,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705228745866,
+      "updated": 1705229233484,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -184,8 +184,8 @@
     },
     {
       "type": "text",
-      "version": 160,
-      "versionNonce": 611942236,
+      "version": 161,
+      "versionNonce": 1715065708,
       "isDeleted": false,
       "id": "CsGv2W8OBw5PqZIpqII49",
       "fillStyle": "solid",
@@ -214,7 +214,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705228745866,
+      "updated": 1705229233485,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -281,8 +281,8 @@
     },
     {
       "type": "text",
-      "version": 582,
-      "versionNonce": 1615410140,
+      "version": 583,
+      "versionNonce": 294676820,
       "isDeleted": false,
       "id": "dv0K9xPrktJ01VKOiYrEH",
       "fillStyle": "solid",
@@ -311,7 +311,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705228745866,
+      "updated": 1705229233486,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -460,7 +460,7 @@
       "containerId": "fW4ucJnL5n4_Z2X5Rii4F",
       "originalText": "A",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -554,7 +554,7 @@
       "containerId": "P-IO4nc5Ax0M_r_7cN4ve",
       "originalText": "B1",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -648,7 +648,7 @@
       "containerId": "5s0lP76gmjB2aNckWYnoO",
       "originalText": "B2",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -726,7 +726,7 @@
       "containerId": "I7ePqsqa6fjiWlGs57_Ah",
       "originalText": "C2",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -804,7 +804,7 @@
       "containerId": "aVyvF6fQ7Q7tFTPQ8lm1Y",
       "originalText": "C3",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -898,7 +898,7 @@
       "containerId": "KxKeHEyuHQWiiHYQRT64F",
       "originalText": "C1",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -976,7 +976,7 @@
       "containerId": "sqLdOh2fXhU7hraUrsFNm",
       "originalText": "C4",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -1054,7 +1054,7 @@
       "containerId": "KLM1Po_u9zlrlcMHs-j1A",
       "originalText": "D1",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -1132,7 +1132,7 @@
       "containerId": "rCZv5LWxfFIXr1zT3KIgy",
       "originalText": "D2",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -1552,8 +1552,8 @@
     },
     {
       "type": "text",
-      "version": 197,
-      "versionNonce": 524184676,
+      "version": 198,
+      "versionNonce": 1560577516,
       "isDeleted": false,
       "id": "dPPu2UlM_TLtjDbgQQ8za",
       "fillStyle": "solid",
@@ -1582,7 +1582,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705228745866,
+      "updated": 1705229233486,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1597,8 +1597,8 @@
     },
     {
       "type": "text",
-      "version": 189,
-      "versionNonce": 1266154460,
+      "version": 190,
+      "versionNonce": 1205870292,
       "isDeleted": false,
       "id": "RiMbkdrdiRbVZHL2eeS15",
       "fillStyle": "solid",
@@ -1627,7 +1627,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705228745866,
+      "updated": 1705229233487,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1746,8 +1746,8 @@
     },
     {
       "type": "text",
-      "version": 259,
-      "versionNonce": 1389470564,
+      "version": 260,
+      "versionNonce": 1020586092,
       "isDeleted": false,
       "id": "p-qeSvYC_5xbZ2hj3ck9t",
       "fillStyle": "solid",
@@ -1776,7 +1776,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705228745866,
+      "updated": 1705229233489,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1843,8 +1843,8 @@
     },
     {
       "type": "text",
-      "version": 437,
-      "versionNonce": 789550820,
+      "version": 438,
+      "versionNonce": 1436361812,
       "isDeleted": false,
       "id": "0eKMqbRFMVg0jtVZ_91WO",
       "fillStyle": "solid",
@@ -1869,7 +1869,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705228745867,
+      "updated": 1705229233491,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -2025,7 +2025,7 @@
       "containerId": "5ca4JboqbBmbSIHW2YMcL",
       "originalText": "parent",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -2118,7 +2118,7 @@
       "containerId": "ol38kn2ItsdXHwxvMawxK",
       "originalText": "parent",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -2211,7 +2211,7 @@
       "containerId": "GBOQGANCIRnrul8NScs51",
       "originalText": "parent",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -2304,7 +2304,7 @@
       "containerId": "574qXYf5Xgmm6JYbfg-aE",
       "originalText": "parent",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -2397,7 +2397,7 @@
       "containerId": "hdsMxhqk6gtaUEnUrafbd",
       "originalText": "parent",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -2490,7 +2490,7 @@
       "containerId": "FD9qHwzqDKSoGhzVK2y0Y",
       "originalText": "parent",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -2583,7 +2583,7 @@
       "containerId": "QMn8kMByFAa0FKwH_O5Pp",
       "originalText": "parent",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -2676,7 +2676,7 @@
       "containerId": "508Bd_XyUxivIej2ht0XZ",
       "originalText": "parent",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -2754,7 +2754,7 @@
       "containerId": "dO8OWQcmr9khRypuIkrz8",
       "originalText": "支付接口",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -2832,7 +2832,7 @@
       "containerId": "MaGtS3Mhol816lk70e4Pg",
       "originalText": "前端支付成功回调",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -2910,7 +2910,7 @@
       "containerId": "cpaYJhPIVJGUe0Ss69Wg0",
       "originalText": "后端收到微信支付成功回调",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -2966,8 +2966,8 @@
     },
     {
       "type": "text",
-      "version": 764,
-      "versionNonce": 720815708,
+      "version": 765,
+      "versionNonce": 963967724,
       "isDeleted": false,
       "id": "VVHuGQLGIvncqXnma2wlx",
       "fillStyle": "solid",
@@ -2996,7 +2996,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705229162193,
+      "updated": 1705229233491,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3011,8 +3011,8 @@
     },
     {
       "type": "text",
-      "version": 1100,
-      "versionNonce": 596218844,
+      "version": 1101,
+      "versionNonce": 10320340,
       "isDeleted": false,
       "id": "_aLnQjesJCA1x8oY-4rDm",
       "fillStyle": "solid",
@@ -3041,7 +3041,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705229162193,
+      "updated": 1705229233491,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3238,7 +3238,7 @@
       "containerId": "u5-LiDmxinDX0vhb9ydMr",
       "originalText": "用户进行支付，是否支付成功",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 46
     },
     {
       "type": "arrow",
@@ -3335,7 +3335,7 @@
       "containerId": "bgBBnUF0hE5BaaLamKmPF",
       "originalText": "支付成功",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -3428,7 +3428,7 @@
       "containerId": "63LGMdfsubakiuVPlOSXc",
       "originalText": "支付失败",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -3502,7 +3502,7 @@
       "containerId": "l8tcwJfhND_BJ_jkxRZ_R",
       "originalText": "不处理，点击按钮再对老订单进行支付",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 46
     },
     {
       "type": "rectangle",
@@ -3584,7 +3584,7 @@
       "containerId": "x_TKkLDUCQAhe2W6uQwt8",
       "originalText": "前后端成功回调执行时机",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -3677,7 +3677,7 @@
       "containerId": "esbgku2nsXxot8E_FpfAQ",
       "originalText": "前端",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -3759,7 +3759,7 @@
       "containerId": "S3_Chp4u70NLGjWd0nZEI",
       "originalText": "展示支付成功页面",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -3852,7 +3852,7 @@
       "containerId": "UZE22UJQLRCAyXkIAnGhZ",
       "originalText": "后端",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -3945,7 +3945,7 @@
       "containerId": "XwubGFeD-nhr_wLTEtRJv",
       "originalText": "点击完成按钮",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -4023,7 +4023,7 @@
       "containerId": "HwLHZRYWuG5Gih6Bg5O_6",
       "originalText": "修改订单状态为组队中",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -4220,7 +4220,7 @@
       "containerId": "DEaqGdyupaeIS1vO3fd1w",
       "originalText": "直接退出小程序",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -4294,7 +4294,7 @@
       "containerId": "5e1meJJhB4XEgRufH77iC",
       "originalText": "结束",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -4350,8 +4350,8 @@
     },
     {
       "type": "text",
-      "version": 1482,
-      "versionNonce": 2002473820,
+      "version": 1483,
+      "versionNonce": 2104409452,
       "isDeleted": false,
       "id": "60eHWfvOQeFmeoY_U7yrQ",
       "fillStyle": "solid",
@@ -4376,7 +4376,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705229162193,
+      "updated": 1705229233492,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4469,7 +4469,7 @@
       "containerId": "j2gpC28dZvp3qG5pgnOxa",
       "originalText": "支付接口",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -4547,7 +4547,7 @@
       "containerId": "xL0WqKqOJXy0KUu53vEP-",
       "originalText": "前端支付成功回调",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -4625,7 +4625,7 @@
       "containerId": "jern7bFlMmBLlWhamdoHn",
       "originalText": "后端收到微信支付成功回调",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -4681,8 +4681,8 @@
     },
     {
       "type": "text",
-      "version": 912,
-      "versionNonce": 819091164,
+      "version": 913,
+      "versionNonce": 1677139796,
       "isDeleted": false,
       "id": "4kKXvM2zRC-NwZvn9XgPm",
       "fillStyle": "solid",
@@ -4711,7 +4711,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705229162193,
+      "updated": 1705229233492,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4726,8 +4726,8 @@
     },
     {
       "type": "text",
-      "version": 1267,
-      "versionNonce": 144241756,
+      "version": 1268,
+      "versionNonce": 1376530412,
       "isDeleted": false,
       "id": "Aw0nH-YMMA0TK-r1h27ND",
       "fillStyle": "solid",
@@ -4756,7 +4756,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1705229162193,
+      "updated": 1705229233492,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4953,7 +4953,7 @@
       "containerId": "nTSTsZrTMlkf8xMFjHpla",
       "originalText": "用户进行支付，是否支付成功",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 46
     },
     {
       "type": "arrow",
@@ -5050,7 +5050,7 @@
       "containerId": "hSxdVfTHqD9S9BR_9Lw2S",
       "originalText": "支付成功",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -5143,7 +5143,7 @@
       "containerId": "tYzmTrd0E2aKYTXBu3ZK-",
       "originalText": "支付失败",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -5217,7 +5217,7 @@
       "containerId": "R3fp4vF3nieFLAQRzxTf1",
       "originalText": "不处理，点击按钮再对老订单进行支付",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 46
     },
     {
       "type": "rectangle",
@@ -5299,7 +5299,7 @@
       "containerId": "9K4GtznoiEv6zUEIo6V7x",
       "originalText": "前后端成功回调执行时机",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -5392,7 +5392,7 @@
       "containerId": "jjl9I2Q5ser0ic_jpJcEF",
       "originalText": "前端",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -5474,7 +5474,7 @@
       "containerId": "WmHdF38w9A6kEn30KjhAP",
       "originalText": "展示支付成功页面",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -5567,7 +5567,7 @@
       "containerId": "NTNrexUslJLEdrT4U_jZY",
       "originalText": "后端",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -5660,7 +5660,7 @@
       "containerId": "b8nx1M6n6OE0D3Mxzxj-D",
       "originalText": "点击完成按钮",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -5738,7 +5738,7 @@
       "containerId": "YzJRsJt9fyFf5zOc27M0R",
       "originalText": "修改订单状态为组队中，如果满员，要修改成订单状态-待发货",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 46
     },
     {
       "type": "arrow",
@@ -5935,7 +5935,7 @@
       "containerId": "P9aYUuG5RtDyToUzlDPSo",
       "originalText": "直接退出小程序",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "rectangle",
@@ -6009,7 +6009,7 @@
       "containerId": "-5nl0bCSWjHIp2cCAtIMJ",
       "originalText": "结束",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -6139,7 +6139,7 @@
       "containerId": "ggaDtzJxQsV454B9mP0vk",
       "originalText": "打开邀请链接",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 21
     },
     {
       "type": "arrow",
@@ -6192,6 +6192,42 @@
           58.39997863769531
         ]
       ]
+    },
+    {
+      "id": "whwEgwcKkI850Ipr_o5Bk",
+      "type": "text",
+      "x": 2505.9065199118086,
+      "y": -539.9390032195207,
+      "width": 960,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 805924641,
+      "version": 692,
+      "versionNonce": 752789359,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1705237316756,
+      "link": null,
+      "locked": false,
+      "text": "问题：原先有两个接口，一个支付接口，一个组队入队接口。先调用支付成功后，再生成入队记录。\n问题是，用户付款成功后，直接关闭微信，不点完成按钮，不会执行前端成功回调，也就没有组队入队记录。\n ",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 68,
+      "containerId": null,
+      "originalText": "问题：原先有两个接口，一个支付接口，一个组队入队接口。先调用支付成功后，再生成入队记录。\n问题是，用户付款成功后，直接关闭微信，不点完成按钮，不会执行前端成功回调，也就没有组队入队记录。\n ",
+      "lineHeight": 1.25
     }
   ],
   "appState": {
