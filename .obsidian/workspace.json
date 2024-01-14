@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-react/第一天.md",
+                "file": "mini-react/第二天.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-react/第一天.md",
+                "file": "mini-react/第二天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-react/第一天.md",
+                "file": "mini-react/第二天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mini-react/第一天.md"
+                "file": "mini-react/第二天.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e2c0fa5f27f1d55",
+  "active": "7574eeff1957073e",
   "lastOpenFiles": [
-    "README.md",
     "mini-react/第一天.md",
+    "mini-react/第二天.md",
+    "README.md",
     "mini-react",
     "金宝利眼镜/路由.md",
     "好奇/资料.md",
@@ -231,7 +232,6 @@
     "attachment",
     "未命名 4.canvas",
     "daily/2023-10-18.md",
-    "daily/2023-10-19.md",
-    "2023-10-17_周二.md"
+    "daily/2023-10-19.md"
   ]
 }
