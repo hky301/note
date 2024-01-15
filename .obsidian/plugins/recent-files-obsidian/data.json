@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "第三天",
+      "path": "mini-react/第三天.md"
+    },
+    {
       "basename": "第二天",
       "path": "mini-react/第二天.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "第一天",
       "path": "mini-react/第一天.md"
+    },
+    {
+      "basename": "资料",
+      "path": "资料/资料.md"
     },
     {
       "basename": "路由",
@@ -35,10 +47,6 @@
     {
       "basename": "2023-11-15",
       "path": "老年协会/2023-11-15.md"
-    },
-    {
-      "basename": "资料",
-      "path": "资料/资料.md"
     },
     {
       "basename": "基础",
