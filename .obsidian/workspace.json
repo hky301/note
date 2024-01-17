@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f2004b6f3fc14ce",
+        "id": "91cc60a9933e7562",
         "type": "tabs",
         "children": [
           {
-            "id": "1cd22b98739d8b10",
+            "id": "2f70c1cd064f3bd0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -18,19 +18,16 @@
             }
           },
           {
-            "id": "75a9f3d17da6bbd7",
+            "id": "5ad4d7b07a683944",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "mini-react/第三天.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/mini-react day-05.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-react/第三天.md",
+                "file": "难点.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-react/第三天.md",
+                "file": "难点.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mini-react/第三天.md"
+                "file": "难点.excalidraw"
               }
             }
           },
@@ -192,19 +189,22 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "75a9f3d17da6bbd7",
+  "active": "2f70c1cd064f3bd0",
   "lastOpenFiles": [
-    "mini-react/第一天.md",
-    "mini-react/复习前三天的内容.md",
+    "Excalidraw/mini-react day-05.md",
     "难点.excalidraw",
+    "Excalidraw/Drawing 2024-01-17 19.20.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-16 08.52.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-16 16.56.54.excalidraw.md",
     "Excalidraw/Drawing 2024-01-16 19.35.31.excalidraw.md",
     "Excalidraw/Drawing 2024-01-16 20.06.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-16 16.56.54.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-16 08.52.30.excalidraw.md",
     "Excalidraw/Drawing 2024-01-16 08.51.42.excalidraw.md",
+    "mini-react/第五天.md",
     "README.md",
+    "mini-react/第一天.md",
     "mini-react/第二天.md",
     "mini-react/第三天.md",
+    "mini-react/复习前三天的内容.md",
     "Excalidraw",
     "资料/资料.md",
     "mini-react",
@@ -234,9 +234,6 @@
     "attachment/Pasted image 20231211160848.png",
     "attachment/Pasted image 20231211160751.png",
     "algorithm/术语表.md",
-    "algorithm/迭代与递归.md",
-    "algorithm/复杂度分析.md",
-    "algorithm/数据结构.md",
     "algorithm",
     "算法",
     "未命名 3.canvas",
