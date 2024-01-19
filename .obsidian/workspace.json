@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6e7dc3590f46f8f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "mini-react/第六天问题.md"
+              }
+            }
           }
         ]
       }
@@ -183,9 +193,11 @@
   },
   "active": "f664757dcaf2b415",
   "lastOpenFiles": [
-    "Excalidraw/mini-react day-05.md",
+    "mini-react/第六天问题.md",
     "mini-react/第七天.md",
     "mini-react/第六天.md",
+    "mini-react/第五天.md",
+    "Excalidraw/mini-react day-05.md",
     "attachment/Pasted image 20240118153126.png",
     "好奇/资料.md",
     "Excalidraw/Drawing 2024-01-16 08.51.42.excalidraw.md",
@@ -196,7 +208,6 @@
     "Excalidraw/Drawing 2024-01-16 16.56.54.excalidraw.md",
     "Excalidraw/Drawing 2024-01-16 19.35.31.excalidraw.md",
     "Excalidraw/Drawing 2024-01-16 20.06.10.excalidraw.md",
-    "mini-react/第五天.md",
     "README.md",
     "mini-react/第一天.md",
     "mini-react/第二天.md",
@@ -214,7 +225,6 @@
     "attachment/Pasted image 20231227140539.png",
     "老年协会/2023-11-15.md",
     "react/基础.md",
-    "2023-10月阿迪会员周/2023阿迪10月会员周任务清单.md",
     "金宝利眼镜",
     "attachment/Pasted image 20231220103617.png",
     "attachment/Pasted image 20231219145046.png",
