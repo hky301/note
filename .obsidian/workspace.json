@@ -11,9 +11,11 @@
             "id": "f664757dcaf2b415",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/mini-react day-05.md"
+                "file": "mini-react/第七天.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/mini-react day-05.md",
+                "file": "mini-react/第七天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/mini-react day-05.md",
+                "file": "mini-react/第七天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/mini-react day-05.md"
+                "file": "mini-react/第七天.md"
               }
             }
           },
@@ -181,6 +183,8 @@
   },
   "active": "f664757dcaf2b415",
   "lastOpenFiles": [
+    "Excalidraw/mini-react day-05.md",
+    "mini-react/第七天.md",
     "mini-react/第六天.md",
     "attachment/Pasted image 20240118153126.png",
     "好奇/资料.md",
@@ -188,7 +192,6 @@
     "好奇/组队.md",
     "难点.excalidraw",
     "好奇/组队.excalidraw.md",
-    "Excalidraw/mini-react day-05.md",
     "Excalidraw/Drawing 2024-01-16 08.52.30.excalidraw.md",
     "Excalidraw/Drawing 2024-01-16 16.56.54.excalidraw.md",
     "Excalidraw/Drawing 2024-01-16 19.35.31.excalidraw.md",
