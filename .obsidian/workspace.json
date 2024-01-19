@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-react/第七天.md",
+                "file": "mini-react/第六天问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-react/第七天.md",
+                "file": "mini-react/第六天问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mini-react/第七天.md"
+                "file": "mini-react/第六天问题.md"
               }
             }
           },
@@ -191,10 +192,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f664757dcaf2b415",
+  "active": "a6e7dc3590f46f8f",
   "lastOpenFiles": [
-    "mini-react/第六天问题.md",
     "mini-react/第七天.md",
+    "mini-react/第六天问题.md",
     "mini-react/第六天.md",
     "mini-react/第五天.md",
     "Excalidraw/mini-react day-05.md",
