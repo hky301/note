@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "55b75fa90e32993a",
+        "id": "6e42c589f2275baf",
         "type": "tabs",
         "children": [
           {
-            "id": "f664757dcaf2b415",
+            "id": "8f1b83bbfc7f77c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mini-react/第七天.md",
+                "file": "interview/vue.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a6e7dc3590f46f8f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "mini-react/第六天问题.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -42,7 +31,7 @@
       {
         "id": "bd0b9f1c1bee082f",
         "type": "tabs",
-        "dimension": 58.95522388059701,
+        "dimension": 58.06451612903226,
         "children": [
           {
             "id": "6e2c0fa5f27f1d55",
@@ -90,7 +79,7 @@
       {
         "id": "5188e9b615b42e46",
         "type": "tabs",
-        "dimension": 41.04477611940299,
+        "dimension": 41.935483870967744,
         "children": [
           {
             "id": "00e909a68a5a1dcc",
@@ -104,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 235.5
   },
   "right": {
     "id": "8bc9c705a4f511e7",
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mini-react/第六天问题.md",
+                "file": "interview/vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mini-react/第六天问题.md",
+                "file": "interview/vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mini-react/第六天问题.md"
+                "file": "interview/vue.md"
               }
             }
           },
@@ -171,9 +160,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "992531e3efb7f6d4",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -188,58 +185,59 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "a6e7dc3590f46f8f",
+  "active": "8f1b83bbfc7f77c1",
   "lastOpenFiles": [
-    "mini-react/第七天.md",
+    "interview/react.md",
+    "interview/vue.md",
+    "数据结构与算法/二叉树.md",
+    "interview",
+    "好奇/组队.excalidraw.md",
+    "数据结构与算法/Drawing 2024-01-25 10.32.50.excalidraw.md",
+    "mini-vue/第一天.md",
+    "数据结构与算法",
+    "未命名.md",
+    "年终总结/2023 年终总结.md",
+    "老年协会/难点.excalidraw",
+    "FrontEndTest/为什么要学习测试.md",
+    "未命名看板.md",
+    "mini-vue",
+    "vue3/源码.md",
+    "资料/资料.md",
+    "年终总结/2021年终总结.md",
+    "README.md",
+    "年终总结/2023 年终总结.html",
+    "mini-react/总结.md",
+    "mini-react/mini-react 训练营学习路径图.excalidraw",
+    "attachment/Pasted image 20231013111703.png",
+    "年终总结/2022 年终总结.md",
+    "好奇/资料.md",
+    "年终总结",
     "mini-react/第六天问题.md",
+    "attachment/Pasted image 20240120195306.png",
+    "attachment/Pasted image 20240120194632.png",
+    "attachment/Pasted image 20240120193918.png",
+    "attachment/Pasted image 20240120193728.png",
+    "attachment/Pasted image 20240120193211.png",
+    "attachment/Pasted image 20240120193131.png",
+    "attachment/Pasted image 20240120192804.png",
+    "attachment/Pasted image 20240120192710.png",
+    "mini-react/第八天.md",
+    "mini-react/第七天.md",
     "mini-react/第六天.md",
     "mini-react/第五天.md",
     "Excalidraw/mini-react day-05.md",
     "attachment/Pasted image 20240118153126.png",
-    "好奇/资料.md",
     "Excalidraw/Drawing 2024-01-16 08.51.42.excalidraw.md",
-    "好奇/组队.md",
-    "难点.excalidraw",
-    "好奇/组队.excalidraw.md",
     "Excalidraw/Drawing 2024-01-16 08.52.30.excalidraw.md",
     "Excalidraw/Drawing 2024-01-16 16.56.54.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-16 19.35.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-16 20.06.10.excalidraw.md",
-    "README.md",
-    "mini-react/第一天.md",
-    "mini-react/第二天.md",
-    "mini-react/第三天.md",
-    "mini-react/复习前三天的内容.md",
     "Excalidraw",
-    "资料/资料.md",
     "mini-react",
-    "金宝利眼镜/路由.md",
     "好奇",
-    "金宝利眼镜/需求.md",
-    "vue3/源码.md",
-    "FrontEndTest/为什么要学习测试.md",
-    "老年协会/零碎.md",
-    "attachment/Pasted image 20231227140539.png",
-    "老年协会/2023-11-15.md",
-    "react/基础.md",
-    "金宝利眼镜",
-    "attachment/Pasted image 20231220103617.png",
-    "attachment/Pasted image 20231219145046.png",
-    "资料",
-    "FrontEndTest",
-    "react",
-    "attachment/Pasted image 20231212093641.png",
-    "attachment/Pasted image 20231212093611.png",
-    "attachment/Pasted image 20231212093522.png",
-    "attachment/Pasted image 20231212093512.png",
-    "attachment/Pasted image 20231212091603.png",
-    "attachment/Pasted image 20231211160848.png",
-    "algorithm",
-    "算法",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",

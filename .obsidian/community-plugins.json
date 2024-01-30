@@ -4,5 +4,17 @@
   "calendar",
   "better-word-count",
   "table-editor-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-quiet-outline",
+  "obsidian-image-toolkit",
+  "obsidian-auto-link-title",
+  "obsidian-kanban",
+  "obsidian-memos",
+  "obsidian-mind-map",
+  "cmdr",
+  "editing-toolbar",
+  "easy-typing-obsidian",
+  "obsidian-emoji-toolbar",
+  "obsidian-icon-shortcodes",
+  "obsidian-pandoc"
 ]
