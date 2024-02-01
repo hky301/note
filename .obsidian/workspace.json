@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/vue.md",
+                "file": "服务器/项目.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/vue.md",
+                "file": "服务器/项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/vue.md",
+                "file": "服务器/项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/vue.md"
+                "file": "服务器/项目.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,8 +192,16 @@
   },
   "active": "8f1b83bbfc7f77c1",
   "lastOpenFiles": [
-    "interview/react.md",
+    "好奇/2023-2-1.md",
+    "好奇/资料.md",
+    "服务器/项目.md",
+    "attachment/Pasted image 20240201091549.png",
+    "interview/overview.md",
+    "服务器",
+    "attachment/Pasted image 20240130194827.png",
+    "interview/webpack.md",
     "interview/vue.md",
+    "interview/react.md",
     "数据结构与算法/二叉树.md",
     "interview",
     "好奇/组队.excalidraw.md",
@@ -215,7 +223,6 @@
     "mini-react/mini-react 训练营学习路径图.excalidraw",
     "attachment/Pasted image 20231013111703.png",
     "年终总结/2022 年终总结.md",
-    "好奇/资料.md",
     "年终总结",
     "mini-react/第六天问题.md",
     "attachment/Pasted image 20240120195306.png",
@@ -225,19 +232,12 @@
     "attachment/Pasted image 20240120193211.png",
     "attachment/Pasted image 20240120193131.png",
     "attachment/Pasted image 20240120192804.png",
-    "attachment/Pasted image 20240120192710.png",
     "mini-react/第八天.md",
     "mini-react/第七天.md",
     "mini-react/第六天.md",
     "mini-react/第五天.md",
-    "Excalidraw/mini-react day-05.md",
-    "attachment/Pasted image 20240118153126.png",
-    "Excalidraw/Drawing 2024-01-16 08.51.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-16 08.52.30.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-16 16.56.54.excalidraw.md",
     "Excalidraw",
     "mini-react",
-    "好奇",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",

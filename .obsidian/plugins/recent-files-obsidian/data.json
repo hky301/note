@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "项目",
+      "path": "服务器/项目.md"
+    },
+    {
+      "basename": "2023-2-1",
+      "path": "好奇/2023-2-1.md"
+    },
+    {
+      "basename": "资料",
+      "path": "好奇/资料.md"
+    },
+    {
+      "basename": "overview",
+      "path": "interview/overview.md"
+    },
+    {
+      "basename": "webpack",
+      "path": "interview/webpack.md"
+    },
+    {
       "basename": "vue",
       "path": "interview/vue.md"
     },
@@ -75,10 +95,6 @@
     {
       "basename": "2022 年终总结",
       "path": "年终总结/2022 年终总结.md"
-    },
-    {
-      "basename": "资料",
-      "path": "好奇/资料.md"
     },
     {
       "basename": "第六天问题",
@@ -183,22 +199,6 @@
     {
       "basename": "复杂度分析",
       "path": "algorithm/复杂度分析.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "algorithm/数据结构.md"
-    },
-    {
-      "basename": "数组与链表",
-      "path": "algorithm/数组与链表.md"
-    },
-    {
-      "basename": "Pasted image 20231127113228",
-      "path": "attachment/Pasted image 20231127113228.png"
-    },
-    {
-      "basename": "Pasted image 20231127112825",
-      "path": "attachment/Pasted image 20231127112825.png"
     }
   ],
   "omittedPaths": [],
