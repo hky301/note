@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "项目",
-      "path": "服务器/项目.md"
+      "basename": "需求",
+      "path": "学习力测评/需求.md"
+    },
+    {
+      "basename": "WechatIMG1798",
+      "path": "学习力测评/WechatIMG1798.jpg"
+    },
+    {
+      "basename": "深圳市东湖中学初二年级报告(2)(1)",
+      "path": "学习力测评/深圳市东湖中学初二年级报告(2)(1).pdf"
+    },
+    {
+      "basename": "知识点",
+      "path": "mini-vue/知识点.md"
+    },
+    {
+      "basename": "第一天",
+      "path": "mini-vue/第一天.md"
+    },
+    {
+      "basename": "组队.excalidraw",
+      "path": "好奇/组队.excalidraw.md"
+    },
+    {
+      "basename": "v2.0",
+      "path": "好奇/v2.0.md"
     },
     {
       "basename": "2023-2-1",
       "path": "好奇/2023-2-1.md"
+    },
+    {
+      "basename": "资料",
+      "path": "资料/资料.md"
+    },
+    {
+      "basename": "Drawing 2024-01-25 10.32.50.excalidraw",
+      "path": "数据结构与算法/Drawing 2024-01-25 10.32.50.excalidraw.md"
+    },
+    {
+      "basename": "项目",
+      "path": "服务器/项目.md"
+    },
+    {
+      "basename": "2023-11-15",
+      "path": "老年协会/2023-11-15.md"
+    },
+    {
+      "basename": "源码",
+      "path": "vue3/源码.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "Nodejs/笔记.md"
+    },
+    {
+      "basename": "二叉树",
+      "path": "数据结构与算法/二叉树.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "JavaScript/未命名.md"
+    },
+    {
+      "basename": "总结",
+      "path": "mini-react/总结.md"
+    },
+    {
+      "basename": "mini-react 训练营学习路径图",
+      "path": "mini-react/mini-react 训练营学习路径图.excalidraw"
+    },
+    {
+      "basename": "Drawing 2024-01-16 20.06.10.excalidraw",
+      "path": "Excalidraw/Drawing 2024-01-16 20.06.10.excalidraw.md"
     },
     {
       "basename": "资料",
@@ -29,22 +97,6 @@
       "path": "interview/react.md"
     },
     {
-      "basename": "二叉树",
-      "path": "数据结构与算法/二叉树.md"
-    },
-    {
-      "basename": "组队.excalidraw",
-      "path": "好奇/组队.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-01-25 10.32.50.excalidraw",
-      "path": "数据结构与算法/Drawing 2024-01-25 10.32.50.excalidraw.md"
-    },
-    {
-      "basename": "第一天",
-      "path": "mini-vue/第一天.md"
-    },
-    {
       "basename": "未命名",
       "path": "未命名.md"
     },
@@ -65,28 +117,12 @@
       "path": "未命名看板.md"
     },
     {
-      "basename": "源码",
-      "path": "vue3/源码.md"
-    },
-    {
-      "basename": "资料",
-      "path": "资料/资料.md"
-    },
-    {
       "basename": "2021年终总结",
       "path": "年终总结/2021年终总结.md"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "总结",
-      "path": "mini-react/总结.md"
-    },
-    {
-      "basename": "mini-react 训练营学习路径图",
-      "path": "mini-react/mini-react 训练营学习路径图.excalidraw"
     },
     {
       "basename": "Pasted image 20231013111703",
@@ -137,10 +173,6 @@
       "path": "Excalidraw/Drawing 2024-01-16 19.35.31.excalidraw.md"
     },
     {
-      "basename": "Drawing 2024-01-16 20.06.10.excalidraw",
-      "path": "Excalidraw/Drawing 2024-01-16 20.06.10.excalidraw.md"
-    },
-    {
       "basename": "第一天",
       "path": "mini-react/第一天.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "零碎",
       "path": "老年协会/零碎.md"
-    },
-    {
-      "basename": "2023-11-15",
-      "path": "老年协会/2023-11-15.md"
-    },
-    {
-      "basename": "基础",
-      "path": "react/基础.md"
-    },
-    {
-      "basename": "2023阿迪10月会员周任务清单",
-      "path": "2023-10月阿迪会员周/2023阿迪10月会员周任务清单.md"
-    },
-    {
-      "basename": "动态规划",
-      "path": "algorithm/动态规划.md"
-    },
-    {
-      "basename": "Pasted image 20231211160614",
-      "path": "attachment/Pasted image 20231211160614.png"
-    },
-    {
-      "basename": "术语表",
-      "path": "algorithm/术语表.md"
-    },
-    {
-      "basename": "迭代与递归",
-      "path": "algorithm/迭代与递归.md"
-    },
-    {
-      "basename": "复杂度分析",
-      "path": "algorithm/复杂度分析.md"
     }
   ],
   "omittedPaths": [],
