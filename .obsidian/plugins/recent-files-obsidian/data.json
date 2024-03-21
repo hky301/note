@@ -5,6 +5,26 @@
       "path": "学习力测评/需求.md"
     },
     {
+      "basename": "资料",
+      "path": "好奇/资料.md"
+    },
+    {
+      "basename": "项目",
+      "path": "服务器/项目.md"
+    },
+    {
+      "basename": "组队.excalidraw",
+      "path": "好奇/组队.excalidraw.md"
+    },
+    {
+      "basename": "未命名看板",
+      "path": "未命名看板.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
       "basename": "2023-2-1",
       "path": "好奇/2023-2-1.md"
     },
@@ -25,10 +45,6 @@
       "path": "mini-vue/第一天.md"
     },
     {
-      "basename": "组队.excalidraw",
-      "path": "好奇/组队.excalidraw.md"
-    },
-    {
       "basename": "v2.0",
       "path": "好奇/v2.0.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "Drawing 2024-01-25 10.32.50.excalidraw",
       "path": "数据结构与算法/Drawing 2024-01-25 10.32.50.excalidraw.md"
-    },
-    {
-      "basename": "项目",
-      "path": "服务器/项目.md"
     },
     {
       "basename": "2023-11-15",
@@ -77,10 +89,6 @@
       "path": "Excalidraw/Drawing 2024-01-16 20.06.10.excalidraw.md"
     },
     {
-      "basename": "资料",
-      "path": "好奇/资料.md"
-    },
-    {
       "basename": "overview",
       "path": "interview/overview.md"
     },
@@ -97,10 +105,6 @@
       "path": "interview/react.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.md"
-    },
-    {
       "basename": "2023 年终总结",
       "path": "年终总结/2023 年终总结.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "为什么要学习测试",
       "path": "FrontEndTest/为什么要学习测试.md"
-    },
-    {
-      "basename": "未命名看板",
-      "path": "未命名看板.md"
     },
     {
       "basename": "2021年终总结",
